@@ -87,10 +87,10 @@ This project is great for understanding and practicing:
 > 📸 **Add your screenshots below** to showcase the game
 
 ### 🎲 Initial State
-![Initial screen](./screenshots/initial.png)
+![Initial screen](https://github.com/shodhanshetty12/Dice-Roller/blob/main/img/Screenshot%20(26).png)
 
 ### 🎯 After Rolling
-![After rolling the dice](./screenshots/after-roll.png)
+![After rolling the dice](https://github.com/shodhanshetty12/Dice-Roller/blob/main/img/Screenshot%20(27).png)
 
 > _Place your images in a `/screenshots` folder and update the path above accordingly._
 
