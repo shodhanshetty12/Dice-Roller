@@ -10,7 +10,6 @@ Welcome to the **Dice-Roller**, a fun, minimal, and interactive web application 
 
 ## 📑 Table of Contents
 
-- [🚀 Live Demo](#-live-demo)
 - [🎮 Features](#-features)
 - [⚙️ How It Works](#️-how-it-works)
 - [🧠 Concepts Covered](#-concepts-covered)
@@ -22,12 +21,6 @@ Welcome to the **Dice-Roller**, a fun, minimal, and interactive web application 
 - [📄 License](#-license)
 - [📬 Contact](#-contact)
 
----
-
-## 🚀 Live Demo
-
-👉 [Click here to play it live](#)  
-_(Optional: Add GitHub Pages link here if hosted online)_
 
 ---
 
